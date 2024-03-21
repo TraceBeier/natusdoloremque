@@ -1,0 +1,28 @@
+{
+  "name": "natusdoloremque",
+  "version": "1.10.1",
+  "description": "Abstract class for turned based board games written in TypeScript.",
+  "main": "index.js",
+  "typings": "index.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TraceBeier/natusdoloremque.git"
+  },
+  "author": "DestineyCronin",
+  "license": "Unlicense",
+  "homepage": "https://github.com/TraceBeier/natusdoloremque.git",
+  "dependencies": {
+    "autdoloremque": "^1.0.0",
+    "eosautem": "^1.0.0",
+    "nostrumut": "^1.0.0",
+    "nullaquis": "^1.0.0",
+    "recusandaenisi": "^1.0.0"
+  },
+  "devDependencies": {
+    "@types/chai": "^3.4.35",
+    "@types/mocha": "^2.2.39",
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0",
+    "typescript": "^2.1.6"
+  }
+}
